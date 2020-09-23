@@ -1,4 +1,4 @@
-
+[![Linkedin Badge](https://img.shields.io/badge/-LaisllaBrandão-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laislla-pinheiro-brandão-19762229/)](https://www.linkedin.com/in/laislla-pinheiro-brandão-19762229/)
 
 # Semana de Data Science do Minerando Dados
 Período: 14.09.20 a 18.09.20

@@ -1,4 +1,4 @@
-# Projeto da Semana de Data Science do Blog Minerando Dados
+# Semana de Data Science do Minerando Dados
 Período: 14.09.20 a 18.09.20
 
 ### Projeto para desenvolver um modelo que facilite a predição de valores de vendas de imóveis na cidade de Boston (EUA).
